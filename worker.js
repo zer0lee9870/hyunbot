@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 TOKEN = ENV_BOT_TOKEN;
 const WEBHOOK = '/endpoint';
 const SECRET = ENV_BOT_SECRET;
